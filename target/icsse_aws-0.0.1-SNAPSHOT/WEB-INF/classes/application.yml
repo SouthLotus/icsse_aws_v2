@@ -1,0 +1,6 @@
+amazonProperties:
+  endpointUrl: https://s3.ap-southeast-1.amazonaws.com
+  accessKey: AKIAJJJ4DZUE5BZFSCEA
+  secretKey: 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
+  bucketName: luunam-bucket
+   
